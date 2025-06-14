@@ -30,8 +30,6 @@ HiddenBox is a secure, distributed file storage application that uses sharding, 
 
 - **Automated deployment**: Use of Docker and Docker Compose for easy deployment and management of services.
 
-Translated with DeepL.com (free version)
-
 ## Documentation
 
 ## Contributions

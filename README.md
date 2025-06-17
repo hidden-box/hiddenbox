@@ -93,9 +93,9 @@ Want to contribute? There are multiple ways you can contribute to this project. 
 
 Want to stay updated or contribute to the conversation?
 
-- Website (coming soon)
-- Matrix/Discord server (planned)
-- Contact: *[Add your email or contact form here]*
+- **Website** (coming soon)
+- **Discord server** (planned)
+- **Contact**: *hiddenboxorg@proton.me*
 
 
 
